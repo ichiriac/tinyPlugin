@@ -1,4 +1,4 @@
-tinyApp
-=======
+tinyPlugin
+==========
 
-A minimalistic web app implementation
+A minimalistic plugin implementation
